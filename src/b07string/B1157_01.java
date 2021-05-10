@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class B1157 {
+public class B1157_01 {
 
 	public static void main(String[] args) throws IOException{
 		int[] alphas = new int[26];
